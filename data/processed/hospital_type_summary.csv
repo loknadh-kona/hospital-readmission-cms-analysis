@@ -1,0 +1,5 @@
+hospital_type,ownership_group,hospital_count,total_discharges,total_readmits,avg_err,penalized,excess_cost_m,readmit_rate_pct,penalty_rate_pct
+Acute Care Hospitals,For-Profit,417,249952.0,43044.0,1.0169,871,63.28,17.22,208.9
+Acute Care Hospitals,Government,303,197489.0,33065.0,0.9999,563,33.4,16.74,185.8
+Acute Care Hospitals,Non-Profit,1476,1448976.0,242933.0,0.999,2985,234.06,16.77,202.2
+Acute Care Hospitals,Other / Unknown,49,15816.0,1482.0,0.9513,29,1.17,9.37,59.2
