@@ -252,7 +252,6 @@ ERR is the core CMS metric. An ERR > 1.0 means a hospital has more readmissions 
 ## 🔗 Connect
 
 **Loknadh Venkata Krishna Sai Kona**
-MS Data Science — University of Memphis (GPA 3.81)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lvkrishna3-0077B5?logo=linkedin)](https://linkedin.com/in/lvkrishna3)
 [![GitHub](https://img.shields.io/badge/GitHub-KrishnaSai315-181717?logo=github)](https://github.com/KrishnaSai315)
