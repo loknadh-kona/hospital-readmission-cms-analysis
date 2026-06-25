@@ -230,14 +230,6 @@ ERR is the core CMS metric. An ERR > 1.0 means a hospital has more readmissions 
 
 **Data Suppression:** CMS suppresses data for hospitals with fewer than 25 cases in a condition to protect patient privacy. These records are flagged as `data_suppressed = 1` and excluded from all KPI calculations. Of 14,940 total records loaded, 5,636 rows are suppressed — leaving 9,304 complete records across 2,245 distinct hospitals forming the analytical universe.
 
----
-
-## 🔗 Connect
-
-**Loknadh Venkata Krishna Sai Kona**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-loknadh-0077B5?logo=linkedin)](https://www.linkedin.com/in/loknadh/)
-[![GitHub](https://img.shields.io/badge/GitHub-loknadh-kona-181717?logo=github)](https://github.com/loknadh-kona)
 
 ---
 
